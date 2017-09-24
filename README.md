@@ -13,4 +13,5 @@ The above code snippet identifies the elements [URLS] not clickable in a website
 GoogleSearch.js
   
 A simple snippet which if run gives you a prompt 'Google what' which can pick up on your query and give you back the search results. An excellent way to put this to use is by having a bookmarklet using this snippet. If you google a lot in your daily life or work, this can be good. 
-Courtesy:  Originally scripted by Abhijit Vaikar.
+Courtesy:  Originally scripted by Abhijeet Vaikar.
+
